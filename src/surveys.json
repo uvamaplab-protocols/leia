@@ -2,7 +2,7 @@
 	"ema": {
 		"type": "cron",
 		"skip": 0,
-		"take": 14,
+		"take": 56,
 		"cron": "0 9,12,15,18 * * *",
 		"expiry": "01:00",
 		"span": "02:00",
